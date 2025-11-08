@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pandas
+openpyxl
+fuzzywuzzy
+python-Levenshtein
+sentence-transformers
+scikit-learn
+numpy
